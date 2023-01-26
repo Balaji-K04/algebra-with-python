@@ -1,6 +1,6 @@
 # Algebra-with-Python
 
-#Topics
+##Topics
  *Ratios, Proportions, and conversions
  *Basic Algebra, solving equations (one variable)
  *Percents, Decimals, and Fractions
