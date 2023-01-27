@@ -1,4 +1,4 @@
-# Algebra-with-Python
+# Algebra-with-Python(In-Progress)
 This is a course from Ed Pratowski developed this course for freeCodeCamp.org. Currently learning this course on my interest in algebra and Python.
 
 <p>
